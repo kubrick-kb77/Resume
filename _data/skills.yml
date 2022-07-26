@@ -4,12 +4,12 @@
   description: From project kick-offs to stakeholder meetings, I create meaningful relationships with co-workers, and articulate a clearly established vision of what is to be achieved with our clients.
 
 # Negotiation
-#- skill: Negotiation
-  #description:
+#skill: Negotiation
+#description:
 
 # Time Management
-#- skill: Time Management
-  #description: 
+#skill: Time Management
+#description: 
 
 #Leadership
 - skill: Leadership
@@ -20,7 +20,7 @@
   description: As a former engineer, I aim to "speak the language" of our subject matter experts enabling better communication and swift visibility of any blockers or risks to any project. I'm always learning, and endeavour to remain on the learning curve to keep abreast of emerging technologies.
 
 #Risk Management
-#- skill: Risk Management
+#skill: Risk Management
 
 #Critical Thinking And Problem Solving
 - skill: Critical Thinking And Problem Solving
